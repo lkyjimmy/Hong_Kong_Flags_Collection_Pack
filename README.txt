@@ -14,7 +14,7 @@ Hong_Kong_Flags_Collection_Pack/
     ├── README.md                        # 說明文件 (Markdown 格式)
     ├── README.txt                       # 說明文件 (純文字格式)
     ├── Hong_Kong_Flags_Collection_Pack.scs # 封裝檔案/備份
-    ├── Un-CCP_Flags_Collection_Pack.sh  # 打包腳本 (Shell Script)
+    ├── Hong_Kong_Flags_Collection_Pack.sh  # 打包腳本 (Shell Script)
     ├── def/vehicle/                     # 車輛配件定義檔 (.sii)
     ├── img/                             # 原始向量與高解析度圖檔 (.svg, .png, .jpg)
     ├── material/ui/accessory/flag/      # 改裝介面 UI 圖示 (.dds, .mat, .tobj)
