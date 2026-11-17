@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <desc>Emblem of Regional Council</desc>
+  <rect width="600" height="400" fill="#008000" />
+  <g stroke="white" stroke-width="55" transform="translate(300,215) rotate(45)">
+    <path d="M-100,88 V-100 H50 A50 50 180 0 1 50 0 H0" stroke-linecap="round" fill="none" />
+    <line x1="0" y1="0" x2="105" y2="105" />
+  </g>
+</svg>
