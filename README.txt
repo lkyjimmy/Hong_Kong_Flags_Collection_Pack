@@ -81,5 +81,5 @@ Hong_Kong_Flags_Collection_Pack/
 
 1. **替換旗幟圖案**：直接覆蓋 `vehicle/truck/upgrade/flag/` 與 `material/ui/accessory/flag/` 下對應代號的 `.dds` 檔案即可，無需更動 `.mat`、`.tobj` 或 `.sii` 結構。
 2. **新增旗幟或支援車型**：
-   * 直接編輯 `universal/Un-CCP_Flags_Collection_Pack.sh` 中的 `flag_names`、`all_trucks` 或 `all_buses` 陣列，填入目標代號後重新執行腳本，即可自動生成對應的 `.mat` 與 `.sii` 定義檔（注意 ETS2 引擎限制單一配件 ID 長度不得超過 12 個字元，且需留意腳本內預設的輸出封裝檔名設定）。
-3. **封裝打包**：目錄內附有 `Un-CCP_Flags_Collection_Pack.sh` 腳本，開發者在 Linux/macOS 環境或 Windows Git Bash / WSL 下可直接執行該腳本進行自動化補齊材質與打包（腳本已內建 `UTF-8` 編碼鎖定防亂碼機制，並採用 `zip -0` 無壓縮 Store 模式封裝為 `.scs` 檔案以確保遊戲讀取效能；打包時建議排除 `img/` 原始圖檔目錄以縮減模組體積）。
+   * 直接編輯 `universal/Hong_Kong_Flags_Collection_Pack.sh` 中的 `flag_names`、`all_trucks` 或 `all_buses` 陣列，填入目標代號後重新執行腳本，即可自動生成對應的 `.mat` 與 `.sii` 定義檔（注意 ETS2 引擎限制單一配件 ID 長度不得超過 12 個字元，且需留意腳本內預設的輸出封裝檔名設定）。
+3. **封裝打包**：目錄內附有 `Hong_Kong_Flags_Collection_Pack.sh` 腳本，開發者在 Linux/macOS 環境或 Windows Git Bash / WSL 下可直接執行該腳本進行自動化補齊材質與打包（腳本已內建 `UTF-8` 編碼鎖定防亂碼機制，並採用 `zip -0` 無壓縮 Store 模式封裝為 `.scs` 檔案以確保遊戲讀取效能；打包時建議排除 `img/` 原始圖檔目錄以縮減模組體積）。
