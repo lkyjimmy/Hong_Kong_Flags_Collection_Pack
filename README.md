@@ -2,7 +2,7 @@
 
 ## 1. 模組概覽與源碼目錄結構
 
-本模組（**Hong Kong Flags Collection Pack**，製作：**通番救國政治部 / PDSNCF**）為《歐洲卡車模擬 2》（Euro Truck Simulator 2）的香港系列車窗旗幟配件包，同時支援官方卡車與官方客車（Coaches DLC）。源碼根目錄為 `Hong_Kong_Flags_Collection_Pack/`：
+本模組（**Hong Kong Flags Collection Pack**，製作：**通番救國政治部 / PDSNCF / Political Department of Saving the Nation by Colluding with Foreigners**）為《歐洲卡車模擬 2》（Euro Truck Simulator 2）的香港系列車窗旗幟配件包，同時支援官方卡車與官方客車（Coaches DLC）。源碼根目錄為 `Hong_Kong_Flags_Collection_Pack/`：
 
 ```text
 Hong_Kong_Flags_Collection_Pack/
